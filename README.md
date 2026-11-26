@@ -45,8 +45,8 @@
 
 
 
-### Name:Kamalesh Vijayakumar V
-### Register Number: 212224110028
+### Name:K Kishore B
+### Register Number: 212224100032
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
